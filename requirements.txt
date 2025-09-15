@@ -1,0 +1,12 @@
+pandas
+jupyter
+notebook
+pyarrow
+fastparquet
+unidecode
+chardet
+pymysql
+sqlalchemy
+requests
+mysql-connector-python
+shapely
